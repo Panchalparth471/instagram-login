@@ -2,10 +2,6 @@
 
     Instagram Login Page Using HTML CSS JavaScript | Responsive and Darkmode
 
-# Video
-
-    https://youtu.be/5ILTBoY3V6c
-
 # Description
 
     We will Make Instagram Login Page Using HTML CSS JavaScript
